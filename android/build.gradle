@@ -24,7 +24,7 @@ android {
 	ndkVersion "23.1.7779620"
 	compileSdkVersion 30
 	defaultConfig {
-		minSdkVersion 22
+		minSdkVersion 19
 		targetSdkVersion 30
 		versionCode 114
 		versionName "1.29.0-t3c892d106-g42f688f1292"
