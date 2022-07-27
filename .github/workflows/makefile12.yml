@@ -15,7 +15,7 @@ jobs:
     - uses: actions/checkout@v3
       
     - name: Install dependencies
-      run: make
+      run: make tailscale-debug.apk
       
     - name: Run check
       run: make check
